@@ -1,0 +1,11 @@
+* clongo
+
+Simple clojure program that wraps the Java Mongo Driver, with the option of
+connecting via SSL. Doesn't do much, since the only thing it adds missing in
+Monger is SSL connectivity to MongoDB.
+
+** License
+
+Copyright © 2016 Tim Hawes
+
+Distributed under the MIT License
